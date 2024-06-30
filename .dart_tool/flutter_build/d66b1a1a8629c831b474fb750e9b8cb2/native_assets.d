@@ -1,0 +1,1 @@
+ C:\\VSCode\\FlutterProject\\PROJECT\ UAS\ MENU\ PECEL\ New\\.dart_tool\\flutter_build\\d66b1a1a8629c831b474fb750e9b8cb2\\native_assets.yaml: 
